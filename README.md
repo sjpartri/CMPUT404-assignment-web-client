@@ -15,7 +15,6 @@ https://github.com/tywtyw2002, and https://github.com/treedust
 server.py contains contributions from:
 
     Abram Hindle
-    Eddie Antonio Santos
     Sean Partridge
 
 But the server.py example is derived from the python documentation
